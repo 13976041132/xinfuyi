@@ -1,0 +1,15 @@
+{
+    "name": "express/weight",
+    "description": "weight,express,score",
+    "require": {
+        "php": ">5.4"
+    },
+    "license": "mit",
+    "authors": [
+        {
+            "name": "邢福宜",
+            "email": "v-xingfuyi@xiaomi.com"
+        }
+    ],
+    "minimum-stability": "dev"
+}
